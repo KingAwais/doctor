@@ -44,11 +44,6 @@ def jalan(z):
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(00000.1)
-
-
-##### LOGO #####
-\035[1;96m°___________________DR_AWAIS_REHMAN 
-\034[1;96m_____FAST_INDIAN_IDS_CLONER 🔥🔥
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \037[1;93mAwaisRehman
 \040[1;96mInstagram \033[1;93m: \033[1;AwaisRehmanVines
