@@ -47,7 +47,7 @@ def jalan(z):
 
 
 ##### LOGO #####
-logo = \033[1;96mDoctor Editions
+logo= \033[1;96mDoctor Editions
 \035[1;96m°___________________DR AWAIS REHMAN 
 \034[1;96m_____FAST INDIAN IDS CLONER 🔥🔥
 \033[1;91m=======================================
