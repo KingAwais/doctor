@@ -44,12 +44,6 @@ def jalan(z):
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(00000.1)
-\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \037[1;93mAwaisRehman
-\040[1;96mInstagram \033[1;93m: \033[1;AwaisRehmanVines
-\049[1;96mFacebook  \038[1;93m: \031[1; Muhammad Awais Khan
-\033[1;91m======================================="""
-
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
